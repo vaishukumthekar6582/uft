@@ -1,0 +1,16 @@
+﻿print(instr(2, "today is beautiful day", "day"))
+print(instrrev("very good day","ry"))
+print(lcase("APPLE"))
+print(ucase("appleass"))
+print(left("today is monday and is beautiful", 10))
+print(len("today is monday and is beautiful"))
+msgbox(ltrim("                today is monday and is beautiful"))
+msgbox(rtrim("today is monday and is beautiful                "))
+msgbox(trim("      today is monday and is beautiful"))
+print(mid("today is beautiful day monday", 5 ,10))
+print(replace("today is beautiful day monday","monday","sunday"))
+msgbox string(5,"$")
+msgbox strreverse ("apple")
+msgbox "beautiful"&space(20)&"good"
+msgbox strcomp("apple","apple")
+

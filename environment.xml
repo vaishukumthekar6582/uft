@@ -1,0 +1,14 @@
+<Environment>
+	<Variable>
+		<Name>flightpath</Name>
+		<Value><![CDATA[C:\Program Files (x86)\HPE\Unified Functional Testing\samples\Flights Application\FlightsGUI.exe]]></Value>
+	</Variable>
+	<Variable>
+		<Name>password</Name>
+		<Value><![CDATA[hp]]></Value>
+	</Variable>
+	<Variable>
+		<Name>username</Name>
+		<Value><![CDATA[john]]></Value>
+	</Variable>
+</Environment>
